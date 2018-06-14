@@ -16,7 +16,6 @@
 .main-content {
     background-color: lawngreen;
     grid-column: 2 / span 5;
-    grid-row: 2;
     min-height: 300px;
 
 }
