@@ -1,0 +1,175 @@
+﻿.container {
+    display: grid;
+    grid-gap: 5px 5px;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(12, 50px);
+    margin: 1rem auto;
+    width: 1000px;
+}
+
+.class1 {
+    background-color: limegreen;
+       grid-row: 1 / span 12;
+}
+
+.class2 {
+    background-color: limegreen;
+    grid-column: 2;
+    grid-row: 1 / span 6;
+}
+
+.class3 {
+    background-color: limegreen;
+    grid-column: 2;
+    grid-row: 7 / span 6;
+}
+
+.class4 {
+    background-color: limegreen;
+    grid-column: 3;
+    grid-row: 1 / span 4;
+}
+
+.class5 {
+    background-color: limegreen;
+    grid-column: 3;
+    grid-row: 5 / span 4;
+}
+
+.class6 {
+    background-color: limegreen;
+    grid-column: 3;
+    grid-row: 9 / span 4;
+}
+
+.class7 {
+    background-color: limegreen;
+    grid-column: 4;
+    grid-row: 1 / span 3;
+}
+
+.class8 {
+    background-color: limegreen;
+    grid-column: 4;
+    grid-row: 4 / span 3;
+}
+
+.class9 {
+    background-color: limegreen;
+    grid-column: 4;
+    grid-row: 7 / span 3;
+}
+
+.class10 {
+    background-color: limegreen;
+    grid-column: 4;
+    grid-row: 10 / span 3;
+}
+
+.class11 {
+    background-color: limegreen;
+    grid-column: 5;
+    grid-row: 1 / span 2;
+}
+
+.class12 {
+    background-color: limegreen;
+    grid-column: 5;
+    grid-row: 3 / span 2;
+}
+
+.class13 {
+    background-color: limegreen;
+    grid-column: 5;
+    grid-row: 5 / span 2;
+}
+
+.class14 {
+    background-color: limegreen;
+    grid-column: 5;
+    grid-row: 7 / span 2;
+}
+
+.class15 {
+    background-color: limegreen;
+    grid-column: 5;
+    grid-row: 9 / span 2;
+}
+
+.class16 {
+    background-color: limegreen;
+    grid-column: 5;
+    grid-row: 11 / span 2;
+}
+
+.class17 {
+    background-color: limegreen;
+    grid-column: 6;
+    grid-row: 1;
+}
+
+.class18 {
+    background-color: limegreen;
+    grid-column: 6;
+    grid-row: 2;
+}
+
+.class19 {
+    background-color: limegreen;
+    grid-column: 6;
+    grid-row: 3;
+}
+
+.class20 {
+    background-color: limegreen;
+    grid-column: 6;
+    grid-row: 4;
+}
+
+.class21 {
+    background-color: limegreen;
+    grid-column: 6;
+    grid-row: 5;
+}
+
+.class22 {
+    background-color: limegreen;
+    grid-column: 6;
+    grid-row: 6;
+}
+
+.class23 {
+    background-color: limegreen;
+    grid-column: 6;
+    grid-row: 7;
+}
+
+.class24 {
+    background-color: limegreen;
+    grid-column: 6;
+    grid-row: 8;
+}
+
+.class25 {
+    background-color: limegreen;
+    grid-column: 6;
+    grid-row: 9;
+}
+
+.class26 {
+    background-color: limegreen;
+    grid-column: 6;
+    grid-row: 10;
+}
+
+.class27 {
+    background-color: limegreen;
+    grid-column: 6;
+    grid-row: 11;
+}
+
+.class28 {
+    background-color: limegreen;
+    grid-column: 6;
+    grid-row: 12;
+}
